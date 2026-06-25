@@ -25,7 +25,7 @@ export default function HomePage() {
         text: "Explore Our Vision",
         href: "#about",
       }}
-      imageSrc="http://img.b2bpic.net/free-photo/elegant-cozy-office-with-laptop_23-2149636249.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/elegant-cozy-office-with-laptop_23-2149636249.jpg?_wi=1"
     />
     </SectionErrorBoundary>
   </div>
@@ -85,7 +85,7 @@ export default function HomePage() {
               detail: "Everywhere",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/elegant-cozy-office-with-laptop_23-2149636249.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/elegant-cozy-office-with-laptop_23-2149636249.jpg?_wi=2",
           imageAlt: "Laptop and notebooks on a girls bed",
         },
         {
@@ -105,7 +105,7 @@ export default function HomePage() {
             },
           ],
           placeholder: "Events...",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-working-coffee-machine_23-2148366641.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-working-coffee-machine_23-2148366641.jpg?_wi=1",
           imageAlt: "Laptop and notebooks on a girls bed",
         },
       ]}
@@ -131,7 +131,7 @@ export default function HomePage() {
         {
           title: "Espresso",
           description: "Single Origin",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-working-coffee-machine_23-2148366641.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-working-coffee-machine_23-2148366641.jpg?_wi=2",
         },
         {
           title: "Signature Lattes",
