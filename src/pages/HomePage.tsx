@@ -89,13 +89,13 @@ export default function HomePage() {
       title="Full Menu Launching Spring 2027"
       description="Exquisite pastries, healthy bites, and premium roasts."
       items={[
-        { title: "Espresso", description: "Single Origin", imageSrc: "http://img.b2bpic.net/free-photo/close-up-hands-working-coffee-machine_23-2148366641.jpg" },
-        { title: "Signature Lattes", description: "Handcrafted art", imageSrc: "http://img.b2bpic.net/free-photo/work-place-creative-person-with-variety-colorful-stationery-objects_93675-134131.jpg" },
-        { title: "Healthy Wraps", description: "Fresh and local", imageSrc: "http://img.b2bpic.net/free-photo/woman-reading-book-reading-club-library_23-2150293527.jpg" },
-        { title: "Pastries", description: "Daily baked", imageSrc: "http://img.b2bpic.net/free-photo/close-up-process-making-espresso-professional-coffee-machine_169016-18251.jpg" },
-        { title: "Matcha", description: "Ceremonial grade", imageSrc: "http://img.b2bpic.net/free-photo/children-desk-interior-design_23-2148569187.jpg" },
-        { title: "Breakfast", description: "Artisan bagels", imageSrc: "http://img.b2bpic.net/free-photo/cozy-lively-home-interior-design_23-2151118894.jpg" },
-        { title: "Desserts", description: "Elegant treats", imageSrc: "http://img.b2bpic.net/free-photo/barista-grind-coffee-bean-with-grinder-machine-barista-prepares-coffee_169016-61314.jpg" }
+        { title: "Espresso", description: "Single Origin", imageSrc: "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=800&auto=format&fit=crop" },
+        { title: "Signature Lattes", description: "Handcrafted art", imageSrc: "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=800&auto=format&fit=crop" },
+        { title: "Healthy Wraps", description: "Fresh and local", imageSrc: "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=800&auto=format&fit=crop" },
+        { title: "Pastries", description: "Daily baked", imageSrc: "https://images.unsplash.com/photo-1509365465985-25d11c17e812?q=80&w=800&auto=format&fit=crop" },
+        { title: "Matcha", description: "Ceremonial grade", imageSrc: "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?q=80&w=800&auto=format&fit=crop" },
+        { title: "Breakfast", description: "Artisan bagels", imageSrc: "https://images.unsplash.com/photo-1585409677983-0f6c41ca9c3b?q=80&w=800&auto=format&fit=crop" },
+        { title: "Desserts", description: "Elegant treats", imageSrc: "https://images.unsplash.com/photo-1551024601-bec78aea704b?q=80&w=800&auto=format&fit=crop" }
       ]}
     />
     </SectionErrorBoundary>
