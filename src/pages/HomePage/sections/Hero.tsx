@@ -11,7 +11,7 @@ export default function HeroSection(): React.JSX.Element {
         <SectionErrorBoundary name="hero">
               <HeroBrand
           brand="More Than Coffee."
-          description="A place to study, create, and connect. Coming Spring 2027."
+          description="A place to study, create, and connect. Coming Fall 2027."
           primaryButton={{
             text: "Join the Waitlist",        href: "#waitlist"}}
           secondaryButton={{

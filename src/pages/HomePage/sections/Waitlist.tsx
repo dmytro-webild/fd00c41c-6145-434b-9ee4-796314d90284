@@ -11,7 +11,7 @@ export default function WaitlistSection(): React.JSX.Element {
         <SectionErrorBoundary name="waitlist">
               <ContactCta
           tag="Waitlist"
-          text="Be First in Line for Spring 2027."
+          text="Be First in Line for Fall 2027."
           primaryButton={{
             text: "Join the Waitlist",        href: "#"}}
           secondaryButton={{

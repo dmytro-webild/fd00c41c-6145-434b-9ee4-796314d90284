@@ -82,6 +82,15 @@ export default function Layout() {
             },
           ],
         },
+        {
+          title: "Partnerships",
+          items: [
+            {
+              label: "Invest & Partner",
+              href: "mailto:invest@thestudycafe.com",
+            },
+          ],
+        },
       ]}
       copyright="© 2027 The Study Café. All rights reserved."
       imageSrc="http://img.b2bpic.net/free-photo/light-room-living-interior-sofa_1203-6332.jpg"
